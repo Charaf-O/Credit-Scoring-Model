@@ -22,4 +22,4 @@ Le repository contient les éléments suivants:
 - app.py: Dashboard
 - style.css: Feuille de style pour le dashboard
 - requirements.txt : liste des librairies python requises pour le fonctionnement des programmes
-- custom_transformer.py: Classe pour la transformation des données +/- l'infinie en valeurs manquantes
+- custom_transformer.py: Class pour la transformation des données +/- l'infinie en valeurs manquantes
