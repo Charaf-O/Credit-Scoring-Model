@@ -12,7 +12,7 @@ Le dashboard est disponible à l'adresse suivante: https://charaf-o-credit-scori
 
 Le repository contient les éléments suivants:
 
-- github/workflows: Déploiement en continu
+- github/workflows: CI/CD
 - app/columns: Contient les noms des colonnes
 - app/models: Contient les modèles entrainés
 - data: Contient les données nécessaires pour le fonctionnement du dashboard
