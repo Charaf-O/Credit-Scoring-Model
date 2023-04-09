@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 
-ENDPOINT = 'http://127.0.0.1:5000'
+ENDPOINT = 'https://scoring-app.azurewebsites.net'
 
 data_vis = pd.read_csv('data/data.csv')
 data = pd.read_csv('data/data_prod.csv')
